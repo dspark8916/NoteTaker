@@ -50,11 +50,11 @@ Please check out the following link to see the finished product:
 
 ## ScreenShots
 
-![ScreenShot]()
+![Front Page](public/assets/images/InitialPage.png)
 
-![ScreenShot]()
+![Notes Page](public/assets/images/NotesPage.png)
 
-![ScreenShot]()
+![Saved Notes](public/assets/images/SavedNotes.png)
 
 ## Contact
 If you have any questions regarding this project and would like to reach out to me please feel free to do so at the following email: dimitarm01@gmail.com. Thank you.
