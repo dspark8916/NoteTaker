@@ -2,6 +2,8 @@
 
 ## Description
 
+It's easy to forget or be unable to recall something important. Being able to take persistent notes allows you to have written information available when needed. In order to help people with this our task was to create an application that can be used to write, save, and delete notes. The application uses an express backend to save and retrieve note data from a JSON file. Putting all this together will make the users life a lot easier!!
+
 ## User Story
 
 ```
@@ -14,21 +16,19 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Table of Contents
 
-* [Installation](#installation)
-
 * [Usage](#usage)
 
 * [Contributing](#Contributing)
 
-* [Video Demonstration](#demonstration)
+* [Heroku Link](#heroku)
 
 * [ScreenShots of Completed App](#screenshots)
 
 * [Contact](#contact)
 
-## Installation
-
 ## Usage
+
+The main purpose of this app is for users that need to keep track of a lot of information. It's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
 
 ## Contributing
 
@@ -42,9 +42,11 @@ If you are interested in contributing to this app please contact the owner of th
 
 Alternatively see the GitHub documentation on [creating a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## Demonstration
+## Heroku
 
-[Video Demo]()
+Please check out the following link to see the finished product:
+
+[Deployed App]()
 
 ## ScreenShots
 
